@@ -29,4 +29,4 @@ Không hiểu cách dùng thì các bạn chịu khó đọc từ 2 link trên v
 
 Cảm ơn
 
-Chân chọng and bét xì ga :D
+Chân chọng en bét xì ga :D
