@@ -3,6 +3,8 @@ HexRaysDeob build with IDA SDK 7.2 và VS 2019.
 
 Đã build cho IDA 32bit và 64bit.
 
+Test OK trên IDA 7.2 và 7.3 trên máy tui. 7.4 và 7.5 chắc sẽ chạy được, vì IDA SDK luôn tương thích ngược về trước từ IDA 7.
+
 Build từ bản của CarbonBlack, không phải từ bản gốc của Rolf Rolles. 
 
 Họ đã add thêm nhiều obfuscation pattern.
